@@ -1,4 +1,4 @@
-## Python Programming Midterm Exam Submission Instructions
+## Midterm Exam Submission Instructions
 
 This midterm exam will test your knowledge and skills in python programming. You will solve five problems that are in different folders. Each folder has test cases that you can use to check your code. Your code should run correctly and give the right answers. You can use your notes and the internet during the exam, but you cannot work with anyone or copy any solutions from other sources. You have three hours to finish the exam and upload your code as a zip file on Flipclass.
 
