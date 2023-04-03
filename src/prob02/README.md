@@ -6,7 +6,7 @@ To print prime numbers in [A,B], check each integer in that range for divisibili
 
 ## Requirements
 
-The program should be designed to find and print all prime numbers within a given range. Two functions, is_prime and main, should be implemented. The is_prime function should accept a single integer parameter, n, and return True if n is a prime number; otherwise, it should return False. The main function should accept two integer parameters, a and b, representing the range of numbers to check for primes. It should then iterate through each number in the range, calling the is_prime function on each one. 
+The program should be designed to find and print all prime numbers within a given range. Two functions, is_prime and main, should be implemented. The is_prime function should accept a single integer parameter, n, and return True if n is a prime number; otherwise, it should return False.The main function should receive two integers, a and b, from the input() function, representing the range of numbers to check for primes. It should then iterate through each number in the range, calling the is_prime function on each one. 
 
 ## Example Usage
 
